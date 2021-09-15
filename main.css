@@ -36,6 +36,7 @@ h1 {
   color:#df7027;
 }
 .list {
+  text-align: center;
   color:#df7027;
   font-size: large;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -84,4 +85,13 @@ a {
   color:#699fa1;
   font-size: xx-large;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.photos {
+  text-align: center;
+}
+.photos2 {
+  text-align: center;
+}
+.yup p:hover{
+  color:#699fa1
 }
